@@ -88,7 +88,7 @@ export default {
         addTime(action) {
             let now = new Date();
             this.times.push({type:action,time:now});
-            console.log(this.times);
+            // console.log(this.times);
             // this.$cookies.set("newKey1", this.times[0]);
         },
         clearAll() {
