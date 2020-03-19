@@ -1,8 +1,7 @@
 <template>
     <div class="schedule">
         <h1>Scheduler</h1>
-        <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FDenver&amp;src=ZnMub2xzb241QGdtYWlsLmNvbQ&amp;src=MXJ2bXVmaTZqaXIxaHFpY3NqbzRhMG82bjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4uY2hyaXN0aWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%237986CB&amp;color=%233F51B5&amp;color=%230B8043&amp;title=Daily%20Planning&amp;showCalendars=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>        
-        <Footer />
+        <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FDenver&amp;title=Daily%20Planning&amp;showCalendars=1&amp;src=MXJ2bXVmaTZqaXIxaHFpY3NqbzRhMG82bjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%233F51B5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>        <Footer />
     </div>
 </template>
 
